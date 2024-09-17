@@ -1,0 +1,8 @@
+
+### `requirements.txt`
+
+```txt
+PyQt5==5.15.9
+selenium==4.10.0
+openpyxl==3.1.2
+pysqlite3==0.4.6
